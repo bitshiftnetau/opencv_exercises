@@ -1,0 +1,3 @@
+/srv/code/c++/opencv/displayimage/CMakeFiles/rebuild_cache.dir
+/srv/code/c++/opencv/displayimage/CMakeFiles/DisplayImage.dir
+/srv/code/c++/opencv/displayimage/CMakeFiles/edit_cache.dir

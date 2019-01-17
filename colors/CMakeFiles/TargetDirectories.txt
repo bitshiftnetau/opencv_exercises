@@ -1,0 +1,3 @@
+/srv/code/c++/opencv/colors/CMakeFiles/rebuild_cache.dir
+/srv/code/c++/opencv/colors/CMakeFiles/Colors.dir
+/srv/code/c++/opencv/colors/CMakeFiles/edit_cache.dir

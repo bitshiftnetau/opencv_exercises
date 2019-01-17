@@ -1,0 +1,3 @@
+/srv/code/c++/opencv/glitch/CMakeFiles/rebuild_cache.dir
+/srv/code/c++/opencv/glitch/CMakeFiles/Glitch.dir
+/srv/code/c++/opencv/glitch/CMakeFiles/edit_cache.dir

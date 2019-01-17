@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project( Glitch )
+find_package( OpenCV REQUIRED )
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+add_executable( Glitch glitch.cpp )
+target_link_libraries( Glitch ${OpenCV_LIBS} )
